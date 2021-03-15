@@ -31,7 +31,6 @@
 </p>
 <br>
 
-  [![jaero0725's github stats](https://github-readme-stats.vercel.app/api?username=jaero0725)](https://github.com/jaero0725/github-readme-stats)
 
   <!--
   <a href="https://github.com/a3coo3a">
@@ -47,5 +46,8 @@
   
   ![footer](https://capsule-render.vercel.app/api?&color=timeGradient&section=footer&&animation=scaleIn)
 
+  <br/><br/>
+
+  [![jaero0725's github stats](https://github-readme-stats.vercel.app/api?username=jaero0725)](https://github.com/jaero0725/github-readme-stats)
 </div>
 </div>
