@@ -27,8 +27,9 @@
   <a href="https://www.instagram.com/zeroco_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zeroco_0"/></a>&nbsp
   <a href="mailto:dhqkgbs@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhqkgbs@naver.com"/></a>
 </p>
-<br>
+<br>\
 
+<div align=center>
   <h3>💪My Motto</h3>
   
 ![12-cutout](https://user-images.githubusercontent.com/65069255/103854295-78451380-50f3-11eb-8dbd-edac37720b0f.png)
@@ -46,7 +47,7 @@ If you can't avoid Enjoy💃
 
 <br/>
 
-  <a href="hhttps://github.com/a3coo3a">
+  <a href="https://github.com/jaero0725/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3coo3a&layout=compact&theme=dracula" />
   </a>
   
