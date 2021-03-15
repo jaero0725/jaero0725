@@ -29,3 +29,27 @@
 </p>
 <br>
 
+  <h3>💪My Motto</h3>
+  
+![12-cutout](https://user-images.githubusercontent.com/65069255/103854295-78451380-50f3-11eb-8dbd-edac37720b0f.png)
+
+
+
+If you can't avoid Enjoy💃
+
+
+  <!--
+  <a href="https://github.com/a3coo3a">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&theme=dracula&include_all_commits=true" />
+  </a>
+  -->
+
+<br/>
+
+  <a href="hhttps://github.com/a3coo3a">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3coo3a&layout=compact&theme=dracula" />
+  </a>
+  
+  ![footer](https://capsule-render.vercel.app/api?&color=timeGradient&section=footer&&animation=scaleIn)
+
+</div>
