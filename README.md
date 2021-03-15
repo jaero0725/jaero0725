@@ -42,9 +42,10 @@
   <br/><br/>
 
   [![jaero0725's github stats](https://github-readme-stats.vercel.app/api?username=jaero0725)](https://github.com/jaero0725/github-readme-stats)
+  <div align="right">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa3coo3a&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jaero0725/)
+  </div>
+
   <br>
 </div>
-</div>
-<div align="right">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa3coo3a&count_bg=%2379C83D&title_bg=%23C0C0C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jaero0725/)
 </div>
