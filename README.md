@@ -31,6 +31,7 @@
 </p>
 <br>
 
+  [![jaero0725's github stats](https://github-readme-stats.vercel.app/api?username=jaero0725)](https://github.com/jaero0725/github-readme-stats)
 
   <!--
   <a href="https://github.com/a3coo3a">
