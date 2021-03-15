@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-E6B91E?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Postgre-E6B91E?style=flat-square&logo=Postgre&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-#336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
