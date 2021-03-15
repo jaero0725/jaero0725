@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Postgre-E6B91E?style=flat-square&logo=Postgre&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
-  ---
+
 <br><br>
 <h3 align="center"> :dog: Me :dog:</h3>
 <p align="center">
