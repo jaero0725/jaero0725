@@ -30,21 +30,6 @@
   <a href="mailto:dhqkgbs@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhqkgbs@naver.com"/></a>
 </p>
 <br>
-<a href="https://github.com/jaero0725" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/zeroco_0" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>  
-
-
-
-  <!--
-  <a href="https://github.com/a3coo3a">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3coo3a&show_icons=true&theme=dracula&include_all_commits=true" />
-  </a>
-  -->
 
 <br/>
 
