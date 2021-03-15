@@ -49,9 +49,9 @@ If you can't avoid Enjoy💃
 
 <br/>
 
-  //<a href="https://github.com/jaero0725/">
-  //  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3coo3a&layout=compact&theme=dracula" />
-  //</a>
+  <a href="https://github.com/jaero0725/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaero0725&layout=compact&theme=dracula" />
+  </a>
   
   ![footer](https://capsule-render.vercel.app/api?&color=timeGradient&section=footer&&animation=scaleIn)
 
