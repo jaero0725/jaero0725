@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws2&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
 </p>
-
 <br><br>
 <h3 align="center"> :dog: Me :dog:</h3>
 <p align="center">
