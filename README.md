@@ -25,8 +25,7 @@
 <p align="center">
   <a href="https://zeroco.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://zeroco.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/zeroco_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zeroco_0"/></a>&nbsp
-  <a href="mailto:dhqkgbs@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhqkgbs@naver.com"/></a>
-</p>
+ </p>
 <br>
 
 <br/>
@@ -35,7 +34,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaero0725&layout=compact&theme=dracula" />
   </a>
   
-  ![footer](https://capsule-render.vercel.app/api?&color=timeGradient&section=footer&&animation=scaleIn)
 
   <br/><br/>
 
