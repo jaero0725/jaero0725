@@ -30,15 +30,7 @@
 
 <br/>
 
-  <a href="https://github.com/jaero0725/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaero0725&layout=compact&theme=dracula" />
-  </a>
-  
 
-  <br/><br/>
-
-  [![jaero0725's github stats](https://github-readme-stats.vercel.app/api?username=jaero0725)](https://github.com/jaero0725/github-readme-stats)
-<div align=right>
 	
 
   </div>
