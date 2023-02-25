@@ -20,20 +20,6 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
-<br><br>
-<h3 align="center"> :dog: Me :dog:</h3>
-<p align="center">
-  <a href="https://zeroco.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://zeroco.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/zeroco_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zeroco_0"/></a>&nbsp
- </p>
-<br>
-
-<br/>
-
-
-	
-
   </div>
-  <br>
 </div>
 </div>
