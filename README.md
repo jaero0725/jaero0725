@@ -1,6 +1,6 @@
 <h3 align="">🛠 Main Stack 🛠</h3>
 <p align="">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
@@ -15,7 +15,9 @@
   <br>
   <img src="https://img.shields.io/badge/AWS-red?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernates-blue?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka&logoColor=white"/>
+
 </p>
 <h3 align="">🔭 Interest </h3>
 <p align="">
