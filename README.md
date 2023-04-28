@@ -16,7 +16,7 @@
 </p>
 <h3 align="">🔭 Interest </h3>
 <p align="">
-  <a>SQL Tuning/ Database Architecture/ Big data processing</a>
+  <a> Database Architecture / SQL Tunin / Big data Batch processing</a>
 </p>
 </div>
 </div>
