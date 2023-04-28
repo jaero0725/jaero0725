@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=Kafka&logoColor=white"/>
 </p>
 <h3 align="">🔭 Interest </h3>
