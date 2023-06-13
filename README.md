@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Kubernates-blue?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/ELK%20stack-green?style=flat-square&logo=elasticsearch&logoColor=white">   
+  <img src="https://img.shields.io/badge/clickhouse-yellow?style=flat-square&logo=clickhouse&logoColor=white">
 </p>
 <h3 align="">🔭 Interest </h3>
 <p align="">
